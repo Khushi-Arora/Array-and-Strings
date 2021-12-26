@@ -10,3 +10,4 @@ Basic Arrays and Strings Questions:-
 3) Binary Search using Recursion.
 4) Palindrome using Recursion.
 5) Print name n no of times.
+6) Print Factorial of a number.
