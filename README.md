@@ -11,3 +11,4 @@ Basic Arrays and Strings Questions:-
 4) Palindrome using Recursion.
 5) Print name n no of times.
 6) Print Factorial of a number.
+7) Count no of Distinct paths.
