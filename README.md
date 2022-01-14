@@ -12,3 +12,4 @@ Basic Arrays and Strings Questions:-
 5) Print name n no of times.
 6) Print Factorial of a number.
 7) Count no of Distinct paths.
+8) Reverse a String using Recursion.
