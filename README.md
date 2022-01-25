@@ -17,3 +17,4 @@ Basic Arrays and Strings Questions:-
 10) Print all Subsets
 11)Recursive Sum of Digits
 12)Sort using Stack
+13)Deleting a middle element from a stack
