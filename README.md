@@ -19,4 +19,5 @@ Basic Arrays and Strings Questions:-
 12)Sort using Stack
 13)Deleting a middle element from a stack
 14)Reverse a Stack
-15)
+15)Kth symbol in a Grammar
+16)
