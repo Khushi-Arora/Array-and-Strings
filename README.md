@@ -18,3 +18,5 @@ Basic Arrays and Strings Questions:-
 11)Recursive Sum of Digits
 12)Sort using Stack
 13)Deleting a middle element from a stack
+14)Reverse a Stack
+15)
