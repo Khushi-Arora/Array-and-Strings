@@ -16,3 +16,4 @@ Basic Arrays and Strings Questions:-
 9) Letter Combination
 10) Print all Subsets
 11)Recursive Sum of Digits
+12)Sort using Stack
