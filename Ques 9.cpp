@@ -7,7 +7,7 @@ void printallcom(char temp[],string &digit,int i,vector<vector<char>> &digitmap)
     if(i==digit.length())
     {
         for(int k=0;k<digit.size();k++)
-        cout<<temp[k];
+        cout<<temp[k]<<" ";
         cout<<endl;
         return;
     }
