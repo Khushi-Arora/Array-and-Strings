@@ -23,3 +23,4 @@ Basic Arrays and Strings Questions:-
 14)Reverse a Stack
 15)Kth symbol in a Grammar
 16)Tower of Hanoi
+17) Print only one subsequence whose sum is k
