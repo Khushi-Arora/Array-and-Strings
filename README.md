@@ -26,3 +26,5 @@ Basic Arrays and Strings Questions:-
 17) Print only one subsequence whose sum is k
 18)Count no of all subsequences whose sum is k
 19)Combination Sum
+20)Combination Sum(II)
+21)Subset Sum(I)
